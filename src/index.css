@@ -1,0 +1,151 @@
+@tailwind base;
+
+@layer base {
+    html {
+        @apply text-neutral-800;
+    }
+
+    html.dark {
+        @apply text-neutral-50;
+        @apply bg-neutral-800;
+    }
+}
+
+@tailwind components;
+@tailwind utilities;
+
+
+.active-navbar a.active {
+    opacity: 100%;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.active-navbar a.active::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -12px;
+    background-color: #ffffff;
+    background-size: cover;
+    width: 100%;
+    height: 4px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.swiper-wrapper {
+    margin-bottom: 60px;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+    background-color: white;
+    width: 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+    background-color: white;
+    width: 60px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.range-slider::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 7px;
+    background: #71887ba1;
+    border-radius: 5px;
+    position: relative;
+}
+
+.range-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    background: #71887B;
+    cursor: pointer;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    transform: translateY(-4px);
+    -webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    -o-transform: translateY(-4px);
+}
+
+/* Range Price */
+
+.horizontal-slider .example-track {
+    top: 20px;
+    height: 10px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.example-track.example-track-0 {
+    background: #71887B;
+}
+
+.example-track.example-track-1 {
+    background: #71887B;
+}
+
+.example-track.example-track-2 {
+    background: #71887B;
+}
+
+.horizontal-slider .example-thumb {
+    top: 1px;
+    padding: 5px 13px;
+    border-radius: 5px;
+    font-size: 9px;
+    text-align: center;
+    background-color: #71887B;
+    color: white;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.CouponCode {
+    background-image: url(./Images/MaskCouponCode.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

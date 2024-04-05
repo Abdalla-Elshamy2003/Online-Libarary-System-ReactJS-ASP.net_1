@@ -1,0 +1,1570 @@
+{
+  "books": [
+    {
+      "kind": "books#volume",
+      "id": "ljEEAAAAMBAJ",
+      "etag": "xN4MlEJBgaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-09-07",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 600,
+        "currency": "EGP",
+        "pageCount": 58,
+        "categories": ["Business & Economics"],
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=ljEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AOXxCwAAQBAJ",
+      "etag": "2p8W79k9/jM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AOXxCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming Distributed Computing Systems",
+        "subtitle": "A Foundational Approach",
+        "price": 1500,
+        "currency": "EGP",
+        "authors": ["Carlos A. Varela"],
+        "publisher": "MIT Press",
+        "publishedDate": "2013-05-31",
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262313360"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262313367"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "bestBook": true,
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=AOXxCwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&rdid=book-AOXxCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 32,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-epub.acsm?id=AOXxCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-pdf.acsm?id=AOXxCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AOXxCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "si9VEAAAQBAJ",
+      "etag": "hcaSwdMhQCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/si9VEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Family Business Book",
+        "subtitle": "Practical Tips to Help Family and Business Work Well Together",
+        "authors": ["Paul Keogh"],
+        "publisher": "SRA Books",
+        "publishedDate": "2022-02-03",
+        "description": "Family-owned businesses are among the most notable and numerous in the world. Some are global brands employing thousands – think Walmart, Ford and JCB – others are much smaller, more local enterprises run by their owners and staffed entirely by their family. But however big or small, running or working in a family business, and the bringing together of two conflicting and complex worlds – family and business – often presents very unique challenges for everyone involved, be they part of the family or employees and advisors. The Family Business Book draws on Paul Keogh’s expertise and decades of work with family businesses of all sizes, all around the world, to help their owners, family members and employees feel informed, empowered and equipped to make the right decisions and navigate the ups and downs, successes and disappointments. Easy to read and packed with top tips, discover essential and honest guidance on: Juggling the demands of work with the expectations of family. Handling conflict and rivalries whilst dealing with intricate family dynamics. Putting effective communication at the heart of both worlds. Building clear structures and establishing sensible governance. Making critical decisions and managing change – in the family and the business! Talking about money and planning for succession. Functioning better as a family is the key to a better functioning family business, so from divorce to death, and deceit to desertion, this book never shies away from asking the difficult questions and discussing the complicated issues that families in business face to make sure both their worlds survive and thrive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781912300594"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1912300591"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 3100,
+        "currency": "EGP",
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=si9VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=si9VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=si9VEAAAQBAJ&pg=PT10&dq=business&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=si9VEAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Family_Business_Book.html?hl=&id=si9VEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/The_Family_Business_Book-sample-epub.acsm?id=si9VEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/The_Family_Business_Book-sample-pdf.acsm?id=si9VEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=si9VEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b>. Planning was a bit on the hoof. Combining family and <b>business</b> is a very complex process. Families are complex in themselves, and no two families are the same. Each one has its own idiosyncrasies shaped by history&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YXQsDwAAQBAJ",
+      "etag": "rDAJ4aNJH18",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YXQsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Coding Literacy",
+        "subtitle": "How Computer Programming Is Changing Writing",
+        "authors": ["Annette Vee"],
+        "publisher": "MIT Press",
+        "publishedDate": "2017-07-28",
+        "description": "How the theoretical tools of literacy help us understand programming in its historical, social and conceptual contexts. The message from educators, the tech community, and even politicians is clear: everyone should learn to code. To emphasize the universality and importance of computer programming, promoters of coding for everyone often invoke the concept of “literacy,” drawing parallels between reading and writing code and reading and writing text. In this book, Annette Vee examines the coding-as-literacy analogy and argues that it can be an apt rhetorical frame. The theoretical tools of literacy help us understand programming beyond a technical level, and in its historical, social, and conceptual contexts. Viewing programming from the perspective of literacy and literacy from the perspective of programming, she argues, shifts our understandings of both. Computer programming becomes part of an array of communication skills important in everyday life, and literacy, augmented by programming, becomes more capacious. Vee examines the ways that programming is linked with literacy in coding literacy campaigns, considering the ideologies that accompany this coupling, and she looks at how both writing and programming encode and distribute information. She explores historical parallels between writing and programming, using the evolution of mass textual literacy to shed light on the trajectory of code from military and government infrastructure to large-scale businesses to personal use. Writing and coding were institutionalized, domesticated, and then established as a basis for literacy. Just as societies demonstrated a “literate mentality” regardless of the literate status of individuals, Vee argues, a “computational mentality” is now emerging even though coding is still a specialized skill.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262036245"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "026203624X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 2000,
+        "currency": "EGP",
+        "pageCount": 375,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YXQsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YXQsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "bestBook": true,
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=YXQsDwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=YXQsDwAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coding_Literacy.html?hl=&id=YXQsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Coding_Literacy-sample-pdf.acsm?id=YXQsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YXQsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, Annette Vee examines the coding-as-literacy analogy and argues that it can be an apt rhetorical frame."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZcI1EAAAQBAJ",
+      "etag": "yoVV6V/vMCs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZcI1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "5 Step Nurse Staffing Agency Business Formation and Operation Manual",
+        "authors": ["Resource Nurse Staffing- Research and Development Co."],
+        "publisher": "Writers Republic LLC",
+        "publishedDate": "2021-05-28",
+        "description": "The Nurse Staffing Agency: Business Formation and Operation Manual was created by Resource Nurse Staffing-Research and Development Company (RNS-RD). RNS-RD is comprised of a team of nurses with over thirty years experience in vastly different specialty areas in health care: business, research, clinical and managed care, to name a few. RNS-RD seeks to empower clinicians from all areas of health care to dominate and take charge of their career through collaboration and entrepreneurship. RNS-RD is not a consulting firm. We do not offer courses or seminars. RNS-RD offers easy- to-read, easy-to-comprehend step-by-step DIY (do it yourself) guidelines on how to start and operate a profitable, manageable nurse staffing agency. Why DIY? DIY guidelines are economical and drive the business owners to learn the process. According to data from the US Bureau of Labor Statistics, about 20 percent of US small businesses fail within the first year. By the end of their fifth year, roughly 50 percent have faltered. This is partly because new business owners are not studying and taking the time to truly learn their market. If you are thinking about becoming a nurse staff agency owner, let RNS-RD help you jump- start your plan!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637283745"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1637283741"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 1200,
+        "currency": "EGP",
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZcI1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZcI1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=ZcI1EAAAQBAJ&pg=PA15&dq=business&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ZcI1EAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/5_Step_Nurse_Staffing_Agency_Business_Fo.html?hl=&id=ZcI1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/5_Step_Nurse_Staffing_Agency_Business_Fo-sample-epub.acsm?id=ZcI1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/5_Step_Nurse_Staffing_Agency_Business_Fo-sample-pdf.acsm?id=ZcI1EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZcI1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> credit process: research NAV <b>business</b>. Nav is a leading <b>business</b> nancial management company. Nav gives free access to <b>business</b> credit reports from major commercial credit bureaus, Experian, Dun &amp; Bradstreet, Equifax, and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b-2oDwAAQBAJ",
+      "etag": "nrKz2W4o/rs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b-2oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Python Programming in Context",
+        "authors": ["Bradley N. Miller", "David L. Ranum", "Julie Anderson"],
+        "publisher": "Jones & Bartlett Learning",
+        "publishedDate": "2019-10-01",
+        "description": "Python Programming in Context, Third Edition provides a comprehensive and accessible introduction to Python fundamentals. Updated with the latest version of Python, the new Third Edition offers a thorough overview of multiple applied areas, including image processing, cryptography, astronomy, the Internet, and bioinformatics. Taking an active learning approach, each chapter starts with a comprehensive real-world project that teaches core design techniques and Python programming while engaging students. An ideal first language for learners entering the rapidly expanding field of computer science, Python gives students a solid platform of key problem-solving skills that translate easily across programming languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781284175554"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1284175553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 2000,
+        "currency": "EGP",
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b-2oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b-2oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=b-2oDwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=b-2oDwAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_in_Context.html?hl=&id=b-2oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Python_Programming_in_Context-sample-pdf.acsm?id=b-2oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b-2oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Updated with the latest version of Python, the new Third Edition offers a thorough overview of multiple applied areas, including image processing, cryptography, astronomy, the Internet, and bioinformatics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zlbSBQAAQBAJ",
+      "etag": "HRCYp6eznlo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zlbSBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to Programming Languages",
+        "authors": ["Arvind Kumar Bansal"],
+        "publisher": "CRC Press",
+        "publishedDate": "2013-12-17",
+        "description": "In programming courses, using the different syntax of multiple languages, such as C++, Java, PHP, and Python, for the same abstraction often confuses students new to computer science. Introduction to Programming Languages separates programming language concepts from the restraints of multiple language syntax by discussing the concepts at an abstrac",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466565159"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466565152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 900,
+        "currency": "EGP",
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zlbSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zlbSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=zlbSBQAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3796.79,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 3796.79,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ&rdid=book-zlbSBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 20,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3796790000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3796790000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Introduction_to_Programming_Languages-sample-pdf.acsm?id=zlbSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zlbSBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduction to Programming Languages separates programming language concepts from the restraints of multiple language syntax by discussing the concepts at an abstrac"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u13hVoYVZa8C",
+      "etag": "XQu+nAoFMMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u13hVoYVZa8C",
+      "volumeInfo": {
+        "title": "Planning Extreme Programming",
+        "authors": ["Kent Beck", "Martin Fowler"],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2001",
+        "description": "Without careful ongoing planning, the software development process can fall apart. Extreme Programming (XP) is a new programming discipline, or methodology, that is geared toward the way that the vast majority of software development projects are handled -- in small teams. In this new book, noted software engineers Kent Beck and Martin Fowler show the reader how to properly plan a software development project with XP in mind. The authors lay out a proven strategy that forces the reader to plan as their software project unfolds, and therefore avoid many of the nasty problems that can potentially spring up along the way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0201710919"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780201710915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 3200,
+        "currency": "EGP",
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=u13hVoYVZa8C&printsec=frontcover&dq=programming&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=u13hVoYVZa8C&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Planning_Extreme_Programming.html?hl=&id=u13hVoYVZa8C"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u13hVoYVZa8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this new book, noted software engineers Kent Beck and Martin Fowler show the reader how to properly plan a software development project with XP in mind."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QBuk4Ov_Fg0C",
+      "etag": "gLtar82ytPI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QBuk4Ov_Fg0C",
+      "volumeInfo": {
+        "title": "Thinking About Starting a Business?",
+        "subtitle": "A Guide on How to Start Your Own Business",
+        "authors": ["Gary Thomas"],
+        "publisher": "Author House",
+        "publishedDate": "2012-01-31",
+        "description": "Why should you go to the trouble of creating a written business plan? There are three major reasons: The process of putting a business plan together, including the thought you put in before beginning to write it, forces you to take an objective, critical unemotional look at your business project in its entirety. The finished product your business plan is and operating told which, properly used, will help you manage your business and work toward its success. The completed business plan is the means for communicating your ideas to others and provide the basis for your financing proposal. The importance of planning cannot be overemphasized. By taking an objective look at your business you can identify areas of weakness and strengths, pinpoint needs you might otherwise overlook, spot problems before they arise, and begin planning how you can best achieve your business goals. As an operating tool, your business plan helps you to establish reasonable objectives and figure out how to best accomplish them. It also helps you to red-flag problems as they arise and aids you to identifying their sources, thus suggesting ways to solve them. It may even help you avoid some problems altogether. This handbook has been designed with these considerations in mind. In order for it to work it is important that you do as much of the work as possible. A professionally prepared business plan wont do you any good if you dont understand it thoroughly. This understanding comes from being involved with its development from the very start. No business plan, no matter how carefully constructed and no matter how thoroughly understood, will be of any use at all unless you use it. Going into business is rough; over half of all new businesses fail within the first two years of operation and over 90 percent fail within the first 10 years. A major reason for failure is lack of planning. The best way to enhance your chances of success is to plan and follow through on your planning. Use your plan. Dont put it in the bottom drawer of your desk and forget it. Your business plan can help you avoid going into a business venture that is doomed to failure. If your proposed venture is marginal at best, the business plan will show you why and may help you avoid paying the high tuition of business failure. It is far cheaper not to begin an ill-fated business than to learn by experience what your business plan could have taught you at several hours of concentrated work. Finally, your business plan provides the information needed by others to evaluate your venture, especially if you need to seek outside financing. A thorough business automatically becomes a complete financing proposal which will meet the requirements of most lenders.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781468543315"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1468543318"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 3600,
+        "currency": "EGP",
+        "pageCount": 133,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QBuk4Ov_Fg0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QBuk4Ov_Fg0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=QBuk4Ov_Fg0C&printsec=frontcover&dq=business&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=QBuk4Ov_Fg0C&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thinking_About_Starting_a_Business.html?hl=&id=QBuk4Ov_Fg0C"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Thinking_About_Starting_a_Business-sample-epub.acsm?id=QBuk4Ov_Fg0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Thinking_About_Starting_a_Business-sample-pdf.acsm?id=QBuk4Ov_Fg0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QBuk4Ov_Fg0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It may even help you avoid some problems altogether. This handbook has been designed with these considerations in mind. In order for it to work it is important that you do as much of the work as possible."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CDTGGvUFh34C",
+      "etag": "aiig9YBFgH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CDTGGvUFh34C",
+      "volumeInfo": {
+        "title": "How to Open & Operate a Financially Successful Staffing Service Business",
+        "publisher": "Atlantic Publishing Company",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789781603822"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9781603828"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "price": 800,
+        "currency": "EGP",
+        "pageCount": 197,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CDTGGvUFh34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CDTGGvUFh34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=CDTGGvUFh34C&pg=PT89&dq=business&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=CDTGGvUFh34C&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Open_Operate_a_Financially_Succes.html?hl=&id=CDTGGvUFh34C"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/How_to_Open_Operate_a_Financially_Succes-sample-epub.acsm?id=CDTGGvUFh34C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CDTGGvUFh34C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> (as it is today and how you plan it tobe). • State the capital, or cash and goods you will use to generate income, to get started, and to ... <b>business</b> to a prospective <b>business</b> partner or investor. A sample <b>business</b> plan template."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AsQfEAAAQBAJ",
+      "etag": "/ShICY0ZfkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AsQfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Guide to Growing Your Business",
+        "subtitle": "Proven Methods for Entrepreneurs, Marketers, and Salespeople with No Time to Waste",
+        "authors": ["William D. Hughes", "Aastha Verma", "Michael Hughes"],
+        "publisher": "Armin Lear Press",
+        "publishedDate": "2020-09-08",
+        "description": "The world of sales and marketing has transformed dramatically in just the past few months! Technology is the clay from which marketing programs are formed. Professionals have an intimate relationship with that technology, always keeping a high-powered computer their pockets and purses. Knowing precisely how to leverage the power of that technology--right now--can make or break a small or mid-sized business. Knowing how to leverage the power of relationships is part of that scenario. The owners of Amazon, Alibaba, Facebook, and other mega-companies now rank among the richest persons in the world. That's because their services provide sellers with extraordinary reach and buyers with exceptional convenience. People buy feelings, not things. What you make motivates buyers less than how your product makes them feel. A Guide to Growing Your Business addresses these issues of choice, motivation, and more with practical steps to convert a vision into the business you promised your customers, investors, family, and yourself. If you have aggressive growth plans, serious sales goals and lots at stake, this is the handbook for you. The authors are a powerhouse team of business expertise. Bill Hughes has more than forty years of professional sales, marketing and business management experience. He has held executive level positions with large and small companies. Since 1990, he has worked with 50 plus small-to-medium-size companies to increase revenues, profits and corporate valuation through time-efficient, innovative business strategies, coupled with results-driven sales and marketing programs. He has been a guest lecturer at Rutgers University in New Brunswick, New Jersey and National University in San Diego, California. Co-author Aastha Verma is a senior cyber security expert for the United States Government and holds degree in electrical engineering and system engineering. Co-author Michael Hughes is a veteran in the digital marketing field and helped thousands of businesses increase sales and realize profitable returns from their online marketing investments.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781735617404"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1735617407"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 1100,
+        "currency": "EGP",
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AsQfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AsQfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=AsQfEAAAQBAJ&pg=PT35&dq=business&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=AsQfEAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Guide_to_Growing_Your_Business.html?hl=&id=AsQfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/A_Guide_to_Growing_Your_Business-sample-epub.acsm?id=AsQfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/A_Guide_to_Growing_Your_Business-sample-pdf.acsm?id=AsQfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AsQfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> with the US government. You should also register with the Government Services Administration (GSA). By doing so, you will qualify with many state and local governments who honor the federal schedules. And you should also&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3N1jEAAAQBAJ",
+      "etag": "XymZ3yAAb5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3N1jEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Icomm: Alternative Media Business Marketing Guide",
+        "authors": ["Lizzy Mcnett"],
+        "publisher": "Writers Publishing House",
+        "publishedDate": "2022-03-12",
+        "description": "ICOMM was designed for business owners who believe big tech compromised their free speech, fake news outlets, Facebook, Twitter, and Instagram, etc. If your online presence is silenced, without explanation, then ICOMM offers some great outlets to brand your business without censorship. Included in this business/marketing guide: * SEO Optimization * Reputation Management * Running Ads * Graphic Design * Grants & Business loans * Setting up a business Writer's Publishing House has developed an exceptional business marketing process. Successful marketing strategies emerge from matching the customer's needs to the right product or services.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781648732300"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1648732305"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 1000,
+        "currency": "EGP",
+        "pageCount": 219,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3N1jEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3N1jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=3N1jEAAAQBAJ&pg=PT146&dq=business&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=3N1jEAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Icomm_Alternative_Media_Business_Marketi.html?hl=&id=3N1jEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Icomm_Alternative_Media_Business_Marketi-sample-epub.acsm?id=3N1jEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Icomm_Alternative_Media_Business_Marketi-sample-pdf.acsm?id=3N1jEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3N1jEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lizzy Mcnett. Chapter. Eighteen: Setting. Up. a. <b>Business</b>. According to Small <b>Business</b>, “There are more than 28 million small <b>businesses</b> in the United States, making up a whopping 99.7 percent of all U.S. <b>businesses</b>, according to the Small&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K17gEAAAQBAJ",
+      "etag": "EVAH/phFqmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K17gEAAAQBAJ",
+      "volumeInfo": {
+        "title": "UBI 2022 ENGLISH FOR BUSINESS COMMUNICATION TEXTBOOK: 1ST EDITION (Penerbit UMK)",
+        "authors": [
+          "Syakirah Shafien",
+          "Lena Ramamurthy",
+          "Nurul Aadilah Salleh"
+        ],
+        "publisher": "UMK PRESS",
+        "publishedDate": "2023-11-01",
+        "description": "UBI 2022: English for Business Communication provides a comprehensive, integrated approach to introductory business courses in three different skills, including reading, writing, and speaking skills. This textbook aims to help students to develop the ability to read, write and speak effectively on topics in their field of interest, namely the field of business. It is to cater students who have passed UBI 1022 English II and/or students who scored MUET Band 3. This textbook is designed to help students read simple factual texts related to business with a satisfactory level of comprehension, conduct real-life speaking and complete writing tasks to provide information on business-related topics appropriate for B1 that they are familiar with. Each chapter focuses on clear objectives and specific skills determined to give an overview of business communication that will be helpful to all students in developing practical communication skills.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 1900,
+        "currency": "EGP",
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K17gEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K17gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=K17gEAAAQBAJ&pg=PA46&dq=business&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=K17gEAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/UBI_2022_ENGLISH_FOR_BUSINESS_COMMUNICAT.html?hl=&id=K17gEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/UBI_2022_ENGLISH_FOR_BUSINESS_COMMUNICAT-sample-epub.acsm?id=K17gEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/UBI_2022_ENGLISH_FOR_BUSINESS_COMMUNICAT-sample-pdf.acsm?id=K17gEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K17gEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b> in Malaysia ? Starting a travel agency <b>business</b> in Malaysia follows the general company incorporation procedure . However , there are certain laws and regulations that differentiate the travel agency <b>business</b> from other types of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lzEEAAAAMBAJ",
+      "etag": "s8Noxo3gptk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lzEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-06-28",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 1950,
+        "currency": "EGP",
+        "pageCount": 77,
+        "printType": "MAGAZINE",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lzEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lzEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=lzEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=lzEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=lzEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lzEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NXHWCgAAQBAJ",
+      "etag": "r/d2jWx32eQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NXHWCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Business Models and Modelling",
+        "publisher": "Emerald Group Publishing",
+        "publishedDate": "2015-11-09",
+        "description": "In this volume leading scholars from North America, Europe and Asia come together to explore the topic of business models that takes the demand side (customers and their engagement) seriously. The first part deals with the model dimension of business models. The second part deals with business models and change.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785604621"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785604627"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 2300,
+        "currency": "EGP",
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NXHWCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NXHWCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=NXHWCgAAQBAJ&printsec=frontcover&dq=business&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NXHWCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NXHWCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5014.86,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 5014.86,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NXHWCgAAQBAJ&rdid=book-NXHWCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5014860000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5014860000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Business_Models_and_Modelling-sample-epub.acsm?id=NXHWCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Business_Models_and_Modelling-sample-pdf.acsm?id=NXHWCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NXHWCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this volume leading scholars from North America, Europe and Asia come together to explore the topic of business models that takes the demand side (customers and their engagement) seriously."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-IH_x6ytuQC",
+      "etag": "rLgl41jU2+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-IH_x6ytuQC",
+      "volumeInfo": {
+        "title": "The C# Programming Language (Covering C# 4.0), Portable Documents",
+        "authors": [
+          "Anders Hejlsberg",
+          "Mads Torgersen",
+          "Scott Wiltamuth",
+          "Peter Golde"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010-10-31",
+        "description": "The popular C# programming language combines the high productivity of rapid application development languages with the raw power of C and C++. Updated to cover the new features of C# 4.0, including dynamic binding, named and optional parameters, and covariant and contravariant generic types, this release takes the language to the next level by adding the ability to cleanly write programs that don’t rely on static type definitions. This allows dynamic programming languages such as Python, Ruby, and JavaScript to feel native to C#. The C# Programming Language, Fourth Edition, continues to be the authoritative and annotated technical reference for C# 4.0. 7nbsp; Written by Anders Hejlsberg, the language’s architect, and his colleagues, Mads Torgersen, Scott Wiltamuth, and Peter Golde, this volume has been completely updated for C# 4.0. The book provides the complete specification of the language, along with descriptions, reference materials, code samples, and annotations from twelve prominent C# gurus. The many annotations bring a depth and breadth of understanding rarely found in any programming book. As the main text of the book introduces the concepts of the C# language, cogent annotations explain why they are important, how they are used, how they relate to other languages, and even how they evolved. This book is the definitive, must-have reference for any developer who wants to understand C#. With annotations from: Brad Abrams, Joseph Albahari, Krzysztof Cwalina, Jesse Liberty, Eric Lippert, Christian Nagel, Vladimir Reshetnikov, Marek Safar, Chris Sells, Peter Sestoft, Jon Skeet, and Bill Wagner.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132481724"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132481723"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 2600,
+        "currency": "EGP",
+        "pageCount": 1072,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-IH_x6ytuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-IH_x6ytuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=s-IH_x6ytuQC&printsec=frontcover&dq=programming&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 688.51,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 688.51,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC&rdid=book-s-IH_x6ytuQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 100,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 688510000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 688510000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-IH_x6ytuQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the definitive, must-have reference for any developer who wants to understand C#. With annotations from: Brad Abrams Joseph Albahari Krzysztof Cwalina Jesse Liberty Eric Lippert Christian Nagel Vladimir Reshetnikov Marek Safar ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MJZGDwAAQBAJ",
+      "etag": "W3nexFjhq+s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MJZGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning C++ Functional Programming",
+        "authors": ["Wisnu Anggoro"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-08-10",
+        "description": "Apply Functional Programming techniques to C++ to build highly modular, testable, and reusable code About This Book Modularize your applications and make them highly reusable and testable Get familiar with complex concepts such as metaprogramming, concurrency, and immutability A highly practical guide to building functional code in C++ filled with lots of examples and real-world use cases Who This Book Is For This book is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps. What You Will Learn Get to know the difference between imperative and functional approaches See the use of first-class functions and pure functions in a functional style Discover various techniques to apply immutable state to avoid side effects Design a recursive algorithm effectively Create faster programs using lazy evaluation Structure code using design patterns to make the design process easier Use concurrency techniques to develop responsive software Learn how to use the C++ Standard Template Library and metaprogramming in a functional way to improve code optimization In Detail Functional programming allows developers to divide programs into smaller, reusable components that ease the creation, testing, and maintenance of software as a whole. Combined with the power of C++, you can develop robust and scalable applications that fulfill modern day software requirements. This book will help you discover all the C++ 17 features that can be applied to build software in a functional way. The book is divided into three modules—the first introduces the fundamentals of functional programming and how it is supported by modern C++. The second module explains how to efficiently implement C++ features such as pure functions and immutable states to build robust applications. The last module describes how to achieve concurrency and apply design patterns to enhance your application's performance. Here, you will also learn to optimize code using metaprogramming in a functional way. By the end of the book, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis. Style and approach This book uses a module-based approach, where each module will cover important aspects of functional programming in C++ and will help you develop efficient and robust applications through gaining a practical understanding.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787280588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787280586"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 2100,
+        "currency": "EGP",
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=MJZGDwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1549.47,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1549.47,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ&rdid=book-MJZGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 120,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1549470000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1549470000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MJZGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Apply Functional Programming techniques to C++ to build highly modular, testable, and reusable code About This Book Modularize your applications and make them highly reusable and testable Get familiar with complex concepts such as ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2tAwEAAAQBAJ",
+      "etag": "PDKBpxMhSAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2tAwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expert Python Programming",
+        "subtitle": "Master Python by learning the best coding practices and advanced programming concepts, 4th Edition",
+        "authors": ["Michał Jaworski", "Tarek Ziadé"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-05-28",
+        "description": "Gain a deep understanding of building, maintaining, packaging, and shipping robust Python applications Key FeaturesDiscover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate manageable code to run in various environments with different sets of dependenciesImplement effective Python data structures and algorithms to write, test, and optimize codeBook Description This new edition of Expert Python Programming provides you with a thorough understanding of the process of building and maintaining Python apps. Complete with best practices, useful tools, and standards implemented by professional Python developers, this fourth edition has been extensively updated. Throughout this book, you’ll get acquainted with the latest Python improvements, syntax elements, and interesting tools to boost your development efficiency. The initial few chapters will allow experienced programmers coming from different languages to transition to the Python ecosystem. You will explore common software design patterns and various programming methodologies, such as event-driven programming, concurrency, and metaprogramming. You will also go through complex code examples and try to solve meaningful problems by bridging Python with C and C++, writing extensions that benefit from the strengths of multiple languages. Finally, you will understand the complete lifetime of any application after it goes live, including packaging and testing automation. By the end of this book, you will have gained actionable Python programming insights that will help you effectively solve challenging problems. What you will learnExplore modern ways of setting up repeatable and consistent Python development environmentsEffectively package Python code for community and production useLearn modern syntax elements of Python programming, such as f-strings, enums, and lambda functionsDemystify metaprogramming in Python with metaclassesWrite concurrent code in PythonExtend and integrate Python with code written in C and C++Who this book is for The Python programming book is intended for expert programmers who want to learn Python’s advanced-level concepts and latest features. Anyone who has basic Python skills should be able to follow the content of the book, although it might require some additional effort from less experienced programmers. It should also be a good introduction to Python 3.9 for those who are still a bit behind and continue to use other older versions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781801076197"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1801076197"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 2700,
+        "currency": "EGP",
+        "pageCount": 631,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2tAwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2tAwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=2tAwEAAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1408.58,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1408.58,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ&rdid=book-2tAwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 70,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1408580000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1408580000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2tAwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gain a deep understanding of building, maintaining, packaging, and shipping robust Python applications Key FeaturesDiscover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z72HqqZgyjMC",
+      "etag": "ENLgihZpLBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z72HqqZgyjMC",
+      "volumeInfo": {
+        "title": "Python Programming Fundamentals",
+        "authors": ["Kent D. Lee"],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2010-10-26",
+        "description": "Computer programming is a skill that can bring great enjoyment from the creativity involved in designing and implementing a solution to a problem. This classroom-tested and easy-to-follow textbook teaches the reader how to program using Python, an accessible language which can be learned incrementally. Through an extensive use of examples and practical exercises, students will learn to recognize and apply abstract patterns in programming, as well as how to inspect the state of a program using a debugger tool. Features: contains numerous examples and solved practice exercises designed for an interactive classroom environment; highlights several patterns which commonly appear in programs, and presents exercises that reinforce recognition and application of these patterns; introduces the use of a debugger, and includes supporting material that reveals how programs work; presents the Tkinter framework for building graphical user interface applications and event-driven programs; provides helpful additional resources for instructors at the associated website: http://cs.luther.edu/~leekent/CS1. This hands-on textbook for active learning in the classroom will enable undergraduates in computer science to develop the necessary skills to begin developing their own programs. It employs Python as the introductory language due to the wealth of support available for programmers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781849965378"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1849965374"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 700,
+        "currency": "EGP",
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z72HqqZgyjMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z72HqqZgyjMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=z72HqqZgyjMC&printsec=frontcover&dq=programming&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=z72HqqZgyjMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z72HqqZgyjMC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1272.06,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1272.06,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=z72HqqZgyjMC&rdid=book-z72HqqZgyjMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 12,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1272060000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1272060000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Python_Programming_Fundamentals-sample-epub.acsm?id=z72HqqZgyjMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Python_Programming_Fundamentals-sample-pdf.acsm?id=z72HqqZgyjMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z72HqqZgyjMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It employs Python as the introductory language due to the wealth of support available for programmers. Dr. Kent D. Lee is Associate Professor of Computer Science at the Department of Computer Science at Luther College, Decorah, Iowa, USA."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sWcPAQAAMAAJ",
+      "etag": "29vYRqm4pQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWcPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Programming Pearls",
+        "authors": ["Jon Louis Bentley"],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "1986",
+        "description": "Software -- Software Engineering.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015000538810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "price": 2000,
+        "currency": "EGP",
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": ["Computer programming"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sWcPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sWcPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=sWcPAQAAMAAJ&q=programming&dq=programming&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=sWcPAQAAMAAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Pearls.html?hl=&id=sWcPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWcPAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Software -- Software Engineering. This book is a collection and expansion of the column, &quot;Programming Pearls,&quot; published in Communication of the Association for Computing Machinery."
+      }
+    }
+  ]
+}

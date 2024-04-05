@@ -1,0 +1,460 @@
+{
+  "cart": [
+    {
+      "id": "ljEEAAAAMBAJ",
+      "kind": "books#volume",
+      "etag": "xN4MlEJBgaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-09-07",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 600,
+        "currency": "EGP",
+        "pageCount": 58,
+        "categories": [
+          "Business & Economics"
+        ],
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=ljEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "quantity": 1
+    },
+    {
+      "id": "ljEEAAAAMBAJ",
+      "kind": "books#volume",
+      "etag": "xN4MlEJBgaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-09-07",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 600,
+        "currency": "EGP",
+        "pageCount": 58,
+        "categories": [
+          "Business & Economics"
+        ],
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=ljEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "quantity": 1
+    },
+    {
+      "id": "AOXxCwAAQBAJ",
+      "kind": "books#volume",
+      "etag": "2p8W79k9/jM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AOXxCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming Distributed Computing Systems",
+        "subtitle": "A Foundational Approach",
+        "price": 1500,
+        "currency": "EGP",
+        "authors": [
+          "Carlos A. Varela"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2013-05-31",
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262313360"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262313367"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "bestBook": true,
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=AOXxCwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&rdid=book-AOXxCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 32,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-epub.acsm?id=AOXxCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-pdf.acsm?id=AOXxCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AOXxCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the ..."
+      },
+      "quantity": 1
+    },
+    {
+      "id": "AOXxCwAAQBAJ",
+      "kind": "books#volume",
+      "etag": "2p8W79k9/jM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AOXxCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming Distributed Computing Systems",
+        "subtitle": "A Foundational Approach",
+        "price": 1500,
+        "currency": "EGP",
+        "authors": [
+          "Carlos A. Varela"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2013-05-31",
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262313360"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262313367"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AOXxCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "bestBook": true,
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=AOXxCwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 2112.12,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AOXxCwAAQBAJ&rdid=book-AOXxCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "availability": 32,
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2112120000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-epub.acsm?id=AOXxCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Programming_Distributed_Computing_System-sample-pdf.acsm?id=AOXxCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AOXxCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the ..."
+      },
+      "quantity": 1
+    },
+    {
+      "id": "si9VEAAAQBAJ",
+      "kind": "books#volume",
+      "etag": "hcaSwdMhQCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/si9VEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Family Business Book",
+        "subtitle": "Practical Tips to Help Family and Business Work Well Together",
+        "authors": [
+          "Paul Keogh"
+        ],
+        "publisher": "SRA Books",
+        "publishedDate": "2022-02-03",
+        "description": "Family-owned businesses are among the most notable and numerous in the world. Some are global brands employing thousands – think Walmart, Ford and JCB – others are much smaller, more local enterprises run by their owners and staffed entirely by their family. But however big or small, running or working in a family business, and the bringing together of two conflicting and complex worlds – family and business – often presents very unique challenges for everyone involved, be they part of the family or employees and advisors. The Family Business Book draws on Paul Keogh’s expertise and decades of work with family businesses of all sizes, all around the world, to help their owners, family members and employees feel informed, empowered and equipped to make the right decisions and navigate the ups and downs, successes and disappointments. Easy to read and packed with top tips, discover essential and honest guidance on: Juggling the demands of work with the expectations of family. Handling conflict and rivalries whilst dealing with intricate family dynamics. Putting effective communication at the heart of both worlds. Building clear structures and establishing sensible governance. Making critical decisions and managing change – in the family and the business! Talking about money and planning for succession. Functioning better as a family is the key to a better functioning family business, so from divorce to death, and deceit to desertion, this book never shies away from asking the difficult questions and discussing the complicated issues that families in business face to make sure both their worlds survive and thrive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781912300594"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1912300591"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "price": 3100,
+        "currency": "EGP",
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=si9VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=si9VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com.eg/books?id=si9VEAAAQBAJ&pg=PT10&dq=business&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=si9VEAAAQBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Family_Business_Book.html?hl=&id=si9VEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/The_Family_Business_Book-sample-epub.acsm?id=si9VEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/The_Family_Business_Book-sample-pdf.acsm?id=si9VEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=si9VEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>business</b>. Planning was a bit on the hoof. Combining family and <b>business</b> is a very complex process. Families are complex in themselves, and no two families are the same. Each one has its own idiosyncrasies shaped by history&nbsp;..."
+      },
+      "quantity": 1
+    },
+    {
+      "id": "ljEEAAAAMBAJ",
+      "kind": "books#volume",
+      "etag": "xN4MlEJBgaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-09-07",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 600,
+        "currency": "EGP",
+        "pageCount": 58,
+        "categories": [
+          "Business & Economics"
+        ],
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=ljEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "quantity": 1
+    }
+  ]
+}
