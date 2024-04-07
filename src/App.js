@@ -14,6 +14,9 @@ import About from "./pages/About";
 import AddBooks from "./pages/AddBooks";
 import Profile from "./pages/Profile";
 import Borrowed from "./pages/Borrowed";
+import MangeAccount from "./pages/MangeAccount";
+import MangeBorrowed from "./pages/MangeBorrowed";
+
 
 const App = () => {
   return (
@@ -34,6 +37,9 @@ const App = () => {
             <Route path="/addBooks" element={<AddBooks />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="/borrowed" element={<Borrowed />} />
+            <Route path="/mange_account" element={<MangeAccount />} />
+            <Route path="/mangeBorrowed" element={<MangeBorrowed />} />
+
           </Routes>
         </BooksProvider>
       </BrowserRouter>

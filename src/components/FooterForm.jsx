@@ -190,10 +190,10 @@ const Footer = () => {
                 </li>
                 <li className="py-[10px]">
                   <Link
-                    to="/about"
+                    to="/mangeBorrowed"
                     className="text-[16px] font-medium text-main"
                   >
-                    FAQ
+                    Mange Borrowed
                   </Link>
                 </li>
               </ul>
